@@ -4,11 +4,12 @@
 
 ## Project Difficulties
 
-- There are not many  tutorials around the net about ClojureScript compared to JS frameworks. Then tutorial that are out there might not be actually up to date with latest developments.
+- There are not many  tutorials around the net about ClojureScript compared to JS frameworks. Also, tutorial that are out might not be up to date.
 
 ## Solution
 
-- I looked for books since books contain fundamental information about functioning of ClojureScript that other resources might not cover in depth. I found that `Learning ClojureScript by W. David Jarvis, Rafik Naccache and Allen Rohner ` is a good resource with lots of examples. Some of their examples are using frameworks. I double checked frameworks to make sure that they are still relevant. For those that are not I researched Stack Overflow suggestions and Clojure website. 
+- I looked for books since books contain fundamental information about functioning of ClojureScript that other resources might not cover in depth. I found that `Learning ClojureScript by W. David Jarvis, Rafik Naccache and Allen Rohner ` is a good resource with lots of examples. Some of their examples are using frameworks. I double checked frameworks to make sure that they are still relevant. For those that are not I researched Stack Overflow and Clojure website. 
+
 ## Technology used
 
 - ClojureScript
