@@ -7,7 +7,6 @@
    [sablono.core :as sab :include-macros true]
    [om.core :as om :include-macros true]
    [ajax.core :as ajax]
-   [cljs.core.match :refer-macros [match]]
    [markdown-to-hiccup.core :as m]
    [cljs.reader :as cljs]))
 

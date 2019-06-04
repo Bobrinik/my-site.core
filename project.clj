@@ -14,8 +14,7 @@
                  [sablono "0.8.4"]
                  [org.omcljs/om "1.0.0-beta4"]
                  [cljs-ajax "0.8.0"]
-                 [markdown-to-hiccup "0.6.2"]
-                 [org.clojure/core.match "0.3.0"]]
+                 [markdown-to-hiccup "0.6.2"]]
 
   :source-paths ["src"]
 
