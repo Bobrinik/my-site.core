@@ -8,7 +8,7 @@
 
 ## Solution
 
-- I looked for books since books contain fundamental information about functioning of ClojureScript that other resources might not cover in depth. I found that `Learning ClojureScript by W. David Jarvis, Rafik Naccache and Allen Rohner ` is a good resource with lots of examples. Some of their examples are using frameworks. I double checked frameworks to make sure that they are still relevant. For those that are not I researched Stack Overflow and Clojure website. 
+- I looked for books since books contain fundamental information about functioning of ClojureScript that other resources might not cover in depth. I found that `Learning ClojureScript by W. David Jarvis, Rafik Naccache and Allen Rohner` is a good resource with lots of examples. Some of their examples are using frameworks. I double checked frameworks to make sure that they are still relevant. For those that are not I researched Stack Overflow and Clojure website. 
 
 ## Technology used
 
