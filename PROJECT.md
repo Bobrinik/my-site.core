@@ -1,4 +1,4 @@
-## [Project]()
+## [Project](https://github.com/Bobrinik/my-site.core)
 
 - It's not fun updating GitHub portfolio website manually. Also, it's not fun figuring out how it can be done with `Jekyll`. However, it's fun learning how to do it in ClojureScript and make it as effortless as possible.
 
