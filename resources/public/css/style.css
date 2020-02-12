@@ -1,2 +1,18 @@
 /* some style */
 
+body {
+    background-color: #fdf6e3;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.box {
+    background-color: #eee8d5;
+}
+
+code {
+    background-color: #eee8d5;
+}
+
+.footer {
+    background-color: #eee8d5;
+}
